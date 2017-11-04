@@ -1,2 +1,4 @@
 # hello-world
-Git Tutorial Repository
+
+bismiallah ar rahman ar raheem
+ameen ya Rabb
